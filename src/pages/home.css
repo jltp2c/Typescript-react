@@ -1,0 +1,8 @@
+.containerBanniere {
+    transform: translateY(-40px);
+}
+
+.secondaryBanniere img {
+    width: 480px;
+    margin: 20px;
+}
